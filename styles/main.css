@@ -28,7 +28,7 @@ h6 {
 #pages-home {
   height: 100vh;
   background: url("../assets/home-background.svg") no-repeat;
-  background-position: 35vw bottom;
+  background-position: 35vw 200px;
 }
 #pages-home .content {
   width: 90%;
@@ -69,9 +69,9 @@ h6 {
   font-size: 54px;
 }
 #pages-home main p {
-  font-size: 24px;
+  font-size: 20px;
   line-height: 38px;
-  margin-top: 24px;
+  margin-top: 20px;
 }
 #pages-home main a {
   width: 100%;
