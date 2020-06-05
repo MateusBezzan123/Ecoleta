@@ -23,6 +23,14 @@
   #pages-search-results .cards img {
     height: 250px;
   }
+
+  #pages-create-point .field-group {
+    flex-direction: column;
+  }
+
+  #pages-create-point .field-group .field + .field {
+    margin-left: 0;
+  }
 }
 @media (min-width: 1700px) {
   #pages-home {
