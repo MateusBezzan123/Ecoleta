@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/MateusBezzan123/Ecoleta#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "generate-gitignore": "^0.2.6",
     "nodemon": "^2.0.4",
     "nunjucks": "^3.2.1",
